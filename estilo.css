@@ -1,0 +1,327 @@
+.subtitle{
+    color: white;
+    transition: .5s;
+}
+
+.subtitle:hover{
+    transition: .5s;
+    color: black;
+}
+
+.redirect{
+    position: absolute; 
+    font-family: helvetica; 
+    font-weight: 700; 
+    font-size: 150%;
+    left: 15%;
+    top: 25%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-left: 3%;
+    padding-right: 4%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    transition: .5s;
+    color: black;
+}
+
+.redirect:hover{
+    transition: .5s;
+    background-color: rgba(216, 216, 216, 0.63);
+}
+
+.redirect1{
+    position: absolute; 
+    font-family: helvetica; 
+    font-weight: 700; 
+    font-size: 150%;
+    left: 42%;
+    top: 25%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-left: 3%;
+    padding-right: 4%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    transition: .5s;
+    color: black;
+}
+
+.redirect1:hover{
+    transition: .5s;
+    background-color: rgba(216, 216, 216, 0.63);
+}
+
+.redirect2{
+    position: absolute; 
+    font-family: helvetica; 
+    font-weight: 700; 
+    font-size: 150%;
+    left: 65%;
+    top: 25%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-left: 3%;
+    padding-right: 4%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    transition: .5s;
+    color: black;
+}
+
+.redirect2:hover{
+    transition: .5s;
+    background-color: rgba(216, 216, 216, 0.63);
+}
+
+.tarjeta{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 5%; 
+    top: 14%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta:hover{
+    transition: .8s;
+    left: 4%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta1{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 27%; 
+    top: 14%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta1:hover{
+    transition: .8s;
+    left: 26%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta2{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 50%; 
+    top: 14%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta2:hover{
+    transition: .8s;
+    left: 49%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta3{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 72%; 
+    top: 14%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta3:hover{
+    transition: .8s;
+    left: 71%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta4{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 5%; 
+    top: 31%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta4:hover{
+    transition: .8s;
+    left: 4%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta5{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 27%; 
+    top: 31%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta5:hover{
+    transition: .8s;
+    left: 26%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta6{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 50%; 
+    top: 31%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta6:hover{
+    transition: .8s;
+    left: 49%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta7{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 72%; 
+    top: 31%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta7:hover{
+    transition: .8s;
+    left: 71%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta8{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 5%; 
+    top: 48%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta8:hover{
+    transition: .8s;
+    left: 4%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta9{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 27%; 
+    top: 48%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta9:hover{
+    transition: .8s;
+    left: 26%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta10{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 50%; 
+    top: 48%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta10:hover{
+    transition: .8s;
+    left: 49%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta11{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 72%; 
+    top: 48%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta11:hover{
+    transition: .8s;
+    left: 71%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta12{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 50%; 
+    top: 65%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta12:hover{
+    transition: .8s;
+    left: 49%;
+    width: 22%;
+    height: 15.3%;
+}
+
+.tarjeta13{
+    position: absolute; 
+    background-color: #a7a3a3; 
+    height: 15%; 
+    width: 20%; 
+    left: 27%; 
+    top: 65%;
+    border-radius: 15px;
+    transition: .8s;
+}
+
+.tarjeta13:hover{
+    transition: .8s;
+    left: 26%;
+    width: 22%;
+    height: 15.3%;
+}
